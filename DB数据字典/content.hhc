@@ -1,0 +1,313 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="CHM Editor">
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="Window Styles" value="0x800027">
+<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="公募数据库(GM)">
+    <param name="ImageNumber" value="1">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="私募证券数据库(SM)">
+    <param name="ImageNumber" value="1">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="股权数据库(GQ)">
+    <param name="ImageNumber" value="1">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="固收数据库(GS)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="券商集合数据库(QS)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="公共库(GG)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="指数数据库(ZS)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="A股数据库(AG)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="基金组合数据库(ZH)">
+    <param name="ImageNumber" value="1">
+    </OBJECT>
+  <UL>
+    <LI> <OBJECT type="text/sitemap">
+      <param name="Name" value="自定义组合">
+      <param name="Local" value="page_115.html">
+      <param name="ImageNumber" value="5">
+      </OBJECT>
+    <UL>
+      <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="基础信息">
+        <param name="ImageNumber" value="5">
+        </OBJECT>
+      <UL>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="自建组合基本信息">
+          <param name="Local" value="page_117.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="自建组合持仓信息">
+          <param name="Local" value="page_118.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="自建组合观点信息">
+          <param name="Local" value="page_119.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+      </UL>
+      <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="衍生指标">
+        <param name="ImageNumber" value="5">
+        </OBJECT>
+      <UL>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="年化波动率">
+          <param name="Local" value="page_126.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="年化夏普比率">
+          <param name="Local" value="page_121.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="最大回撤">
+          <param name="Local" value="page_122.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="正收益概率">
+          <param name="Local" value="page_123.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="年化收益率">
+          <param name="Local" value="page_124.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="区间收益率">
+          <param name="Local" value="page_125.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+      </UL>
+    </UL>
+    <LI> <OBJECT type="text/sitemap">
+      <param name="Name" value="外接组合">
+      <param name="Local" value="page_128.html">
+      <param name="ImageNumber" value="5">
+      </OBJECT>
+    <UL>
+      <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="基础信息">
+        <param name="ImageNumber" value="5">
+        </OBJECT>
+      <UL>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合基本信息">
+          <param name="Local" value="page_129.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合观点信息">
+          <param name="Local" value="page_132.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合持仓信息">
+          <param name="Local" value="page_133.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+      </UL>
+      <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="衍生指标">
+        <param name="ImageNumber" value="5">
+        </OBJECT>
+      <UL>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合日回报">
+          <param name="Local" value="page_134.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合日净值">
+          <param name="Local" value="page_135.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合日年化波动率">
+          <param name="Local" value="page_136.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合日年化回报">
+          <param name="Local" value="page_137.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合日夏普比率">
+          <param name="Local" value="page_138.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="外接组合日最大回撤">
+          <param name="Local" value="page_139.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+      </UL>
+    </UL>
+    <LI> <OBJECT type="text/sitemap">
+      <param name="Name" value="策略组合">
+      <param name="Local" value="page_131.html">
+      <param name="ImageNumber" value="5">
+      </OBJECT>
+    <UL>
+      <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="基础信息">
+        <param name="ImageNumber" value="5">
+        </OBJECT>
+      <UL>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="策略组合产品信息">
+          <param name="Local" value="page_142.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="策略组合产品指标维度配置">
+          <param name="Local" value="page_143.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="策略组合产品观点">
+          <param name="Local" value="page_144.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="策略组合产品持仓">
+          <param name="Local" value="page_145.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="策略组合产品对照配置">
+          <param name="Local" value="page_146.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="策略组合产品区间基础指标">
+          <param name="Local" value="page_147.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="策略组合产品排名配置">
+          <param name="Local" value="page_148.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+      </UL>
+      <LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="衍生指标">
+        <param name="ImageNumber" value="5">
+        </OBJECT>
+      <UL>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间日回报">
+          <param name="Local" value="page_149.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间日回报平均收益率">
+          <param name="Local" value="page_150.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间日回报正收益概率">
+          <param name="Local" value="page_151.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间年化日波动率">
+          <param name="Local" value="page_152.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间年化波动率日排名">
+          <param name="Local" value="page_153.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间年化日回报">
+          <param name="Local" value="page_154.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间年化日夏普比率">
+          <param name="Local" value="page_155.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合日偏离度">
+          <param name="Local" value="page_156.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间日排名">
+          <param name="Local" value="page_157.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合日相关性">
+          <param name="Local" value="page_158.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间日最大回撤">
+          <param name="Local" value="page_159.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合月回报">
+          <param name="Local" value="page_160.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+        <LI> <OBJECT type="text/sitemap">
+          <param name="Name" value="组合区间年化月波动率">
+          <param name="Local" value="page_161.html">
+          <param name="ImageNumber" value="11">
+          </OBJECT>
+      </UL>
+    </UL>
+  </UL>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="公募实时估值数据库(GZ)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="好买私募指数数据库(SZ)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="资讯数据库(ZX)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+  <LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="基金研究数据库(YJ)">
+    <param name="ImageNumber" value="11">
+    </OBJECT>
+</UL>
+</BODY></HTML>
